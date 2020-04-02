@@ -9,6 +9,8 @@ public class TestConflict {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("turn left");
 		System.out.println("turn right");
 	}
 }
+
